@@ -40,5 +40,5 @@ As a non-admin user, you can invite other users to edit your study tool, you can
 ### Version Control
 You can view the edit history of your study tool, and revert them to any previous edition you like.
 
-###Admin powers
+### Admin powers
 Admins may create and edit templates, as well as suspending users and freeze study tools.
